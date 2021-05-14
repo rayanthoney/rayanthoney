@@ -1,5 +1,13 @@
+[![MastHead] (https://raw.githubusercontent.com/rayanthoney/rayanthoney/images/headerBanner.jpg)](#)
+
+
+<p align="center">
+<img  src="images/headerBannerText.jpg" width=600 height=200 >
+
+</p>
+
 ## Hello World, I'm Ray Anthoney <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-A Web Designer, Developer I Spend most of time coding outstanding projects.
+I am a **Designer**, **Web Developer**, **Freelancer**, **Dog Lover**,  I Spend most of time coding outstanding projects.
 
 :mailbox: Reach out to me!
 
