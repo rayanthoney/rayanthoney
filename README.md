@@ -1,8 +1,5 @@
-[![MastHead] (https://raw.githubusercontent.com/rayanthoney/rayanthoney/images/headerBanner.jpg)](#)
-
-
 <p align="center">
-<img  src="images/headerBannerText.jpg" width=600 height=200 >
+<img  src="images/headerBanner.jpg" width=600 height=200 >
 
 </p>
 
