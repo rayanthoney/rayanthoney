@@ -7,8 +7,10 @@ A Web Designer, Developer and I Spend most of time coding outstanding projects.
  [![Mail Badge](https://img.shields.io/badge/-RayAnthoney-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDW8GTuI220OFKhjWlmoa8Q)
  [![Mail Badge](https://img.shields.io/badge/-@rayanthoney-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rayanthoney) 
  [![Mail Badge](https://img.shields.io/badge/-rmaxey911@gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rmaxey911@gmail.com)
+
+
+ ## Languages and Tools:
  
- ## Languages
 
 [![HTML5 Badge](https://img.shields.io/badge/-HTML-FFA500?style=for-the-badge&labelColor=black&logo=html5&logoColor=F0DB4F)](#)[![CSS3 Badge](https://img.shields.io/badge/-CSS-264DE4?&style=for-the-badge&labelColor=black&logo=css3&logoColor=264DE4)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 
