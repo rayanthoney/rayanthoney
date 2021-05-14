@@ -10,15 +10,14 @@ A Web Designer, Developer and I Spend most of time coding outstanding projects.
  
  ## Languages
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTML-FFA500?style=for-the-badge&labelColor=black&logo=html5&logoColor=F0DB4F)](#)
-[![CSS3 Badge](https://img.shields.io/badge/-CSS-264DE4?&style=for-the-badge&labelColor=black&logo=css3&logoColor=264DE4)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![HTML5 Badge](https://img.shields.io/badge/-HTML-FFA500?style=for-the-badge&labelColor=black&logo=html5&logoColor=F0DB4F)](#)[![CSS3 Badge](https://img.shields.io/badge/-CSS-264DE4?&style=for-the-badge&labelColor=black&logo=css3&logoColor=264DE4)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 
 
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rayanthoney.rayanthoney)
+
+
 <!--
 **rayanthoney/rayanthoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
