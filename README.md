@@ -25,6 +25,11 @@ I am currently a Freelance Web Developer focusing on the tools used in front end
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rayanthoney.rayanthoney)
 
+#### _What am I doing right now?_
+
+- 📙 I’m currently reading ... Javascipt Grammer ... \(by.Greg Sidelnikov\)
+
+
 
 <!--
 **rayanthoney/rayanthoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
