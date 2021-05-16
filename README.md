@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="images/headerBanner.jpg" width=600 height=200 >
+<img  src="images/CityNight.jpg" width=600 height=200 >
 </p>
 
 
@@ -18,7 +18,7 @@ I am a **Designer**, **Web Developer**, **Freelancer**, **Dog Lover**,  I Spend 
  ### Languages and Tools:
  
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)[![HTML5 Badge](https://img.shields.io/badge/-HTML-FFA500?style=for-the-badge&labelColor=black&logo=html5&logoColor=F0DB4F)](#)[![CSS3 Badge](https://img.shields.io/badge/-CSS-264DE4?&style=for-the-badge&labelColor=black&logo=css3&logoColor=264DE4)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![HTML5 Badge](https://img.shields.io/badge/-HTML-FFA500?style=for-the-badge&labelColor=black&logo=html5&logoColor=F0DB4F)](#)&nbsp;&nbsp;&nbsp;[![CSS3 Badge](https://img.shields.io/badge/-CSS-264DE4?&style=for-the-badge&labelColor=black&logo=css3&logoColor=264DE4)](#)&nbsp;&nbsp;&nbsp;[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)&nbsp;&nbsp;&nbsp;[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 
 
 #### Profile Visits :octocat:
