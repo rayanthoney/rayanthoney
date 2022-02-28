@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="images/CityNight.jpg" width=600 height=200 >
+<img  src="images/1_OwhFqcgiiuLEUOGfTN3aEg.png" width=600 height=200 >
 </p>
 
 ## Hello World, I'm Ray Anthoney <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
