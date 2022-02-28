@@ -1,7 +1,9 @@
-<p align="center">
-<img  src="images/1_OwhFqcgiiuLEUOGfTN3aEg.png" width=600 height=200 >
-</p>
-
+<!-- <p align="center">
+<img  src="images/1_OwhFqcgiiuLEUOGfTN3aEg.png" "alt="Discord HQ blog post" title="Combating Hate on Discord" width=600 height=200 >
+</p> -->
+                                                                                                             
+[![Discord HQ blog post](images/1_OwhFqcgiiuLEUOGfTN3aEg.png)](https://discord.com/blog/an-update-on-racial-equity-at-discord-through-inclusion-diversity-and-purpose-efforts)
+                                                                                                             
 ## Hello World, I'm Ray Anthoney <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 I am currently a Freelance Web Developer focusing on the tools used in front end development such as 
 **HTML5**, **CSS3**, **JAVASCRIPT**, **REACT** and **WORDPRESS** content management system (CMS). I spend a good amount of time learning the tools that will allow me to master the art of _problem solution_ to better serve the projects I take on either for fun or for profit.
