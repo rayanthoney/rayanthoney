@@ -11,16 +11,16 @@ I am currently a Freelance Web Developer focusing on the tools used in front end
 
 :mailbox: Reach out to me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@RayAnthoney-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/rayanthoney)](https://twitter.com/rayanthoney)
- [![YouTube Badge](https://img.shields.io/badge/-RayAnthoney-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDW8GTuI220OFKhjWlmoa8Q)
- [![Instagram Badge](https://img.shields.io/badge/-@rayanthoney-B83AA5?style=flat&labelColor=B83AA5&logo=instagram&logoColor=white)](https://instagram.com/rayanthoney) 
- [![GMail Badge](https://img.shields.io/badge/-rmaxey911@gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rmaxey911@gmail.com)
+ [![Twitter Badge](https://img.shields.io/badge/-@RayAnthoney-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/rayanthoney)](https://twitter.com/rayanthoney)&nbsp;&nbsp;&nbsp;&nbsp;
+ [![YouTube Badge](https://img.shields.io/badge/-RayAnthoney-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDW8GTuI220OFKhjWlmoa8Q)&nbsp;&nbsp;&nbsp;&nbsp;
+ [![Instagram Badge](https://img.shields.io/badge/-@rayanthoney-B83AA5?style=flat&labelColor=B83AA5&logo=instagram&logoColor=white)](https://instagram.com/rayanthoney)&nbsp;&nbsp;&nbsp;&nbsp; 
+ [![GMail Badge](https://img.shields.io/badge/-rmaxey911@gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rmaxey911@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
- ### _Languages and Tools_:
+### _Languages and Tools_:
  
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E44D26)](#)&nbsp;&nbsp;&nbsp;[![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)&nbsp;&nbsp;&nbsp;[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)&nbsp;&nbsp;&nbsp;[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![HTML5 Badge](https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E44D26)](#)&nbsp;&nbsp;&nbsp;&nbsp;[![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)&nbsp;&nbsp;&nbsp;&nbsp;[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)&nbsp;&nbsp;&nbsp;&nbsp;[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 
 
 #### _Profile Visits_ 
