@@ -17,10 +17,10 @@ I am currently a Freelance Web Developer focusing on the tools used in front end
  [![GMail Badge](https://img.shields.io/badge/-rmaxey911@gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rmaxey911@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-### _Languages and Tools_:
+### _My Current Languages and Tools_:
  
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E44D26)](#)&nbsp;&nbsp;&nbsp;&nbsp;[![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)&nbsp;&nbsp;&nbsp;&nbsp;[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)&nbsp;&nbsp;&nbsp;&nbsp;[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![HTML5 Badge](https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E44D26)](#)&nbsp;&nbsp;&nbsp;&nbsp;[![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)&nbsp;&nbsp;&nbsp;&nbsp;[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)&nbsp;&nbsp;&nbsp;&nbsp;[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)&nbsp;&nbsp;&nbsp;&nbsp;[![Figma Badge](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&amp;style=for-the-badge&labelColor=black&logo=figma&logoColor=white)](#)&nbsp;&nbsp;&nbsp;[![VSCode Badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=0078d7)](#)  
 
 
 #### _Profile Visits_ 
