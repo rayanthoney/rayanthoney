@@ -28,31 +28,31 @@
 
 <p>
     <code>
-    <img width="37px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon">
+    <img width="37px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon">
     </code>&nbsp;<code>
-    <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"alt="CSS3 Icon">
+    <img width="37px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"alt="CSS3 Icon">
     </code>&nbsp;<code>
-    <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"alt="JavaScript Icon">
+    <img width="37px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"alt="JavaScript Icon">
     </code>&nbsp;<code>
-    <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"alt="React Icon">
+    <img width="37px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"alt="React Icon">
     </code>&nbsp;<code>
-    <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS Icon">
+    <img width="37px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS Icon">
     </code>&nbsp;<code>
-    <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB Icon">
+    <img width="37px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB Icon">
     </code>
 </p>
 <br>
 <p>
     <code>
-    <img width="37px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"alt="VS Code Icon">
+    <img width="37px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"alt="VS Code Icon">
     </code>&nbsp;<code>    
-    <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"alt="VS Code Icon">
+    <img width="37px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"alt="VS Code Icon">
     </code>&nbsp;<code>
-    <img width="37px" style="margin-left:20px" src="https://api.iconify.design/logos:github-octocat.svg"alt="Github Icon">
+    <img width="37px" style="margin-left: 20px" src="https://api.iconify.design/logos:github-octocat.svg"alt="Github Icon">
     </code>&nbsp;<code>
-    <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"alt="Figma Icon">
+    <img width="37px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"alt="Figma Icon">
     </code>&nbsp;<code>
-    <img width="37px" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"alt="Photoshop Icon">
+    <img width="37px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"alt="Photoshop Icon">
     </code>
 </p>
 <br>
