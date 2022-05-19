@@ -24,16 +24,16 @@
 <br>
 <p>
     <a href="https://twitter.com/rayanthoney" target="_blank">
-        <img src="https://img.shields.io/badge/-@RayAnthoney-1a8cd8?style=plastic&labelColor=black&logo=twitter&logoColor=white&logoWidth=17" alt="Twitter">
+        <img height="20"  src="https://img.shields.io/badge/-@RayAnthoney-1a8cd8?style=plastic&labelColor=black&logo=twitter&logoColor=white&logoWidth=17" alt="Twitter">
     </a>&nbsp;
 	<a href="mailto:rmaxey911@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-rmaxey911@gmail-ea4336?style=plastic&labelColor=black&logo=gmail&logoColor=white&logoWidth=17" alt="Gmail">
+        <img height="20"  src="https://img.shields.io/badge/-rmaxey911@gmail-ea4336?style=plastic&labelColor=black&logo=gmail&logoColor=white&logoWidth=17" alt="Gmail">
     </a>&nbsp;
     <a href="https://instagram.com/rayanthoney" target="_blank">
-        <img src="https://img.shields.io/badge/-RayAnthoney-8d48c1?style=plastic&labelColor=black&logo=instagram&logoColor=white&logoWidth=17" alt="Instagram">
+        <img height="20"  src="https://img.shields.io/badge/-RayAnthoney-8d48c1?style=plastic&labelColor=black&logo=instagram&logoColor=white&logoWidth=17" alt="Instagram">
     </a>&nbsp;
     <a href="https://www.youtube.com/channel/UCDW8GTuI220OFKhjWlmoa8Q" target="_blank">
-        <img src="https://img.shields.io/badge/-RayAnthoney-d01c28?style=plastic&labelColor=black&logo=youtube&logoColor=white&logoWidth=17" alt="Youtube">
+        <img height="20" src="https://img.shields.io/badge/-RayAnthoney-d01c28?style=plastic&labelColor=black&logo=youtube&logoColor=white&logoWidth=17" alt="Youtube">
     </a>&nbsp;
 
 </p>
@@ -42,8 +42,22 @@
 <br/>
 <br/>
 
+<h3 align="left">Check out my Code Wars! 👇</h3>
+
+<br>
+<br>
+
+<p align="center">
+    <a href="https://github.com/rayanthoney/100Devs-Bootcamp/tree/master/code-wars" target="_blank" >
+    <img height="30px" src="https://img.shields.io/badge/-C%20O%20D%20E%20&nbsp;W%20A%20R%20S-b1361e?style=plastic&for-the-badge&labelColor=black&logo=codewars&logoColor=b1361e  " alt="">&nbsp;&nbsp;
+</p>
+
+<br/>
+<br/>
+
 <!-- MY PERSONAL PROJECTS SECTION -->
 <h2 align="center">Projects</h2>
+
 <div align="center">
 	<table>
 		<tr>
@@ -195,7 +209,6 @@
     <img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"alt="Photoshop Icon">
     </code>
 </p>
-
 
 <br>
 
