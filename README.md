@@ -3,7 +3,7 @@
 [![Discord HQ blog post](images/1_OwhFqcgiiuLEUOGfTN3aEg.png)](https://discord.com/blog/an-update-on-racial-equity-at-discord-through-inclusion-diversity-and-purpose-efforts)
 
 <!-- MY INTRO SECTION -->
-<h1 align="center"> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm </h1>
+<h1 align="center"> Hello World <img src="images/wave.gif" width="40px"> I'm </h1>
 <p align="center">
     <a href="https://github.com/rayanthoney" target="_blank" >
     <img height="35px" src="https://img.shields.io/badge/-R%20A%20Y-bb100c?style=plastic&for-the-badge&labelColor=black&logo=Apache&logoColor=b39700  " alt="">&nbsp;&nbsp;
