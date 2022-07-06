@@ -15,7 +15,7 @@
 
 <h2 align="center">🎇 About Me 🌟 </h2>
 <p align="center" >
-<em>I am a Software Engineer and Freelancer focused on web development. I build beautiful and meaningful web experiences via clean and accessible code. Spending a good amount of time learning and testing new technologies to aid myself in this process is something I enjoy. I pride myself on being able to manage my frustrations to achieve ✨Magical✨ outcomes.<em>
+<em>I am a Software Engineer and Freelancer focused on full stack web development. I build beautiful and meaningful web experiences via clean and accessible code. Spending a good amount of time learning and testing new technologies to aid myself in this process is something I enjoy. I pride myself on being able to manage my frustrations to achieve ✨Magical✨ outcomes.<em>
 </p>
 <br>
 
