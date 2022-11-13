@@ -183,15 +183,15 @@
 <br>
 <p align="center">
 <code>
-    <img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"alt="Wordpress Icon">
+	<img width="40px" style="margin-left: 40px" color="teal" src="images/express.png"alt="Express Icon">    
 	</code>&nbsp;<code>
     <img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-plain.svg"alt="Drupal Icon">
 	</code>&nbsp;<code>
-    <img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"alt="Wordpress Icon">
+    <img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"alt="PHP Icon">
 	</code>&nbsp;<code>
-    <img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"alt="Wordpress Icon">
+    <img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"alt="laravel Icon">
 	</code>&nbsp;<code>
-    <img width="40px" style="margin-left: 40px" color="teal" src="images/express.png"alt="Wordpress Icon">
+    <img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"alt="Wordpress Icon">
 	</code>
 </p>
 <br>
