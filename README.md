@@ -175,8 +175,7 @@
 <br>
 <br>
 	<p align="center">
-		<code><img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"alt="VS Code Icon"></code>&nbsp;<code><img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"alt="Ubuntu Icon"></code>&nbsp;<code><img width="40px" style="margin-left: 40px" src="https://api.iconify.design/logos:github-octocat.svg"alt="Github Icon"></code>&nbsp;<code>
-		<img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"alt="Figma Icon"></code>&nbsp;<code><img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"alt="Photoshop Icon"></code>
+		<code><img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"alt="VS Code Icon"></code>&nbsp;<code><img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"alt="Ubuntu Icon"></code>&nbsp;<code><img width="40px" style="margin-left: 40px" src="https://api.iconify.design/logos:github-octocat.svg"alt="Github Icon"></code>&nbsp;<code><img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"alt="Figma Icon"></code>&nbsp;<code><img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"alt="Photoshop Icon"></code>
 	</p>
 </div>
 
