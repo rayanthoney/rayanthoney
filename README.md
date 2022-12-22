@@ -154,31 +154,31 @@
 		</tr>
 	</table>
 </div>
-
 <br>
 <br>
 
 <!-- MY TECHNOLOGY TOOLS SECTION -->
 <h2 align="center">🛠 Technical Languages and Tools </h2>
-
 <br>
 <br>
 
-<p align="center">
-    <code>
-    <img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon">
-    </code>&nbsp;<code>
-    <img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"alt="CSS3 Icon">
-    </code>&nbsp;<code>
-    <img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"alt="JavaScript Icon">
-    </code>&nbsp;<code>
-    <img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"alt="React Icon">
-    </code>&nbsp;<code>
-    <img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS Icon">
-    </code>&nbsp;<code>
-    <img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB Icon">
-    </code>
-</p>
+<div>
+	<p align="center">
+		<code>
+		<img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon">
+		</code>&nbsp;<code>
+		<img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"alt="CSS3 Icon">
+		</code>&nbsp;<code>
+		<img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"alt="JavaScript Icon">
+		</code>&nbsp;<code>
+		<img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"alt="React Icon">
+		</code>&nbsp;<code>
+		<img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS Icon">
+		</code>&nbsp;<code>
+		<img width="40px" style="margin-left: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB Icon">
+		</code>
+	</p>
+</div>
 <br>
 <br>
 <p align="center">
