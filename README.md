@@ -22,7 +22,7 @@
 <!-- MY SOCIAL MEDIA SECTION -->
 <h3 align="left">📫 Reach out to me! 👇</h3>
 <br>
-<p>
+<p align="center">
     <a href="https://twitter.com/rayanthoney" target="_blank">
         <img height="20"  src="https://img.shields.io/badge/-@RayAnthoney-1a8cd8?style=plastic&labelColor=black&logo=twitter&logoColor=white&logoWidth=17" alt="Twitter">
     </a>&nbsp;
@@ -35,7 +35,9 @@
     <a href="https://www.youtube.com/channel/UCDW8GTuI220OFKhjWlmoa8Q" target="_blank">
         <img height="20" src="https://img.shields.io/badge/-RayAnthoney-d01c28?style=plastic&labelColor=black&logo=youtube&logoColor=white&logoWidth=17" alt="Youtube">
     </a>&nbsp;
-
+    <a href="https://rayanthoney.com" target="_blank">
+        <img height="20" src="https://img.shields.io/badge/-rayanthoney.com-d01c28?style=plastic&labelColor=black&logo=firefox&logoColor=white&logoWidth=17" alt="Portfolio">
+    </a>&nbsp;
 </p>
 
 <br/>
