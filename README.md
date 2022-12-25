@@ -36,7 +36,7 @@
         <img height="20" src="https://img.shields.io/badge/-RayAnthoney-d01c28?style=plastic&labelColor=black&logo=youtube&logoColor=white&logoWidth=17" alt="Youtube">
     </a>&nbsp;
     <a href="https://rayanthoney.com" target="_blank">
-        <img height="20" src="https://img.shields.io/badge/-rayanthoney.com-d01c28?style=plastic&labelColor=black&logo=firefox&logoColor=white&logoWidth=17" alt="Portfolio">
+        <img height="20" src="https://img.shields.io/badge/-rayanthoney.com-4900f5?style=plastic&labelColor=black&logo=firefox&logoColor=white&logoWidth=17" alt="Portfolio">
     </a>&nbsp;
 </p>
 
