@@ -192,11 +192,11 @@
 			</td>
 			<td width="50%">
 				<h3 align="center">
-				3D ThreeJS AI Showcase
+				Upcoming Place Holder
 				</h3>
 				<div align="center" >
 					<a href="https://youtu.be/fG-hlfwyhhE">
-						<img src="" alt="ThreeJS" height="100%"/>
+						<img src="" alt="" height="100%"/>
 					</a>
 					<br>
 					<br>
