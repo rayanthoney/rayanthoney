@@ -78,7 +78,7 @@
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
 						<a href="https://youtu.be/XQqhiYAtR9g" target="_blank">
-							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=f92667"/>
+							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=4900f5"/>
 						</a>
 					</p>
 					<p align=left><strong>HTML5, CSS3, JavaScript</strong> - JavaScript version "Mortgage Calculator" with working sliders allowing the user to adjust the specifics based on loan varibles. The get results will show a graph with all loan info in a handy pop up.</p>
@@ -99,7 +99,7 @@
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
 						<a href="https://youtu.be/5jFlzKsPbEo" target="_blank">
-							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=f92667"/>
+							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=4900f5"/>
 						</a>
 					</p>
 					 <p align=left><strong>HTML5, CSS3, JavaScript</strong> - JavaScript Slider static website that dynamically or manually displays Automobile Flagships from Jeep. This site was created based on "Codingphase Practical Javascript Course Scenario2" </p>
@@ -123,7 +123,7 @@
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
 						<a href="DEMO LINK HERE" target="_blank">
-							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=f92667"/>
+							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=4900f5"/>
 						</a>
 					</p>
 					<p align=left><strong>HTML5, CSS3, JavaScript</strong> - 100Devs working calculator using event listners and constructors. This project was created in a group session with Mayanwolfe and 100Devs team.
@@ -147,7 +147,7 @@
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
 						<a href="https://youtu.be/fG-hlfwyhhE" target="_blank">
-							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=f92667"/>
+							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=4900f5"/>
 						</a>
 					</p>
 					<p align=left><strong>HTML5, CSS3, JavaScript</strong> - Portfolio Baranding website created based on Codingphase "Web Developer Personal Brand and Portfolio"
@@ -171,7 +171,7 @@
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
 						<a href="DEMO LINK HERE" target="_blank">
-							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=f92667"/>
+							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=4900f5"/>
 						</a>
 					</p>
 					<p align=left><strong>HTML5, CSS3, JavaScript</strong> - 100Devs working calculator using event listners and constructors. This project was created in a group session with Mayanwolfe and 100Devs team.
@@ -195,7 +195,7 @@
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
 						<a href="https://youtu.be/fG-hlfwyhhE" target="_blank">
-							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=f92667"/>
+							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=4900f5"/>
 						</a>
 					</p>
 					<p align=left><strong>HTML5, CSS3, JavaScript</strong> - Portfolio Baranding website created based on Codingphase "Web Developer Personal Brand and Portfolio"
