@@ -162,7 +162,7 @@
 				</h3>
 				<div align="center" >
 					<a href="#">
-						<img src="" alt="" height="100%"/>
+						<img src="images/threejs1.gif" alt="" height="100%"/>
 					</a>
 					<br>
 					<br>
@@ -174,7 +174,22 @@
 							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=4900f5"/>
 						</a>
 					</p>
-					<p align=left><strong>HTML5, CSS3, JavaScript</strong> - 100Devs working calculator using event listners and constructors. This project was created in a group session with Mayanwolfe and 100Devs team.
+					<p align=left><strong>HTML5, CSS3, JavaScript, NodeJS, React, ThreeJS Fiber, Tailwind, Framer Motion, Vite</strong></p>
+					<ul align=left>
+					<li>3D ThreeJS AI Showcase This is a web aulplication that demonstrates how corporations can use 3D graphics to showcase their products.
+					</li>
+					<li>
+					Interactive 3D models of products.
+					</li>
+					<li>
+					Customizable backgrounds and lighting.
+					</li>
+					 <li>
+					 Smooth camera transitions and animations.
+					 </li>
+					 <li>
+					 Responsive design that works on all devices.</li>
+					</p>
 					<br>
 					<br>
 					</p>
@@ -182,24 +197,38 @@
 			</td>
 			<td width="50%">
 				<h3 align="center">
-				Upcoming Place Holder
+				3D ThreeJS AI Showcase
 				</h3>
 				<div align="center" >
 					<a href="https://youtu.be/fG-hlfwyhhE">
-						<img src="" alt="" height="100%"/>
+						<img src="images/threeJS3DAI.gif" alt="ThreeJS" height="100%"/>
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/rayanthoney/CodingPhase-Labs/tree/master/branding-portfolio" target="_blank">
+						<a href="https://github.com/rayanthoney/jm_threejs_3d_ai" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
 						<a href="https://youtu.be/fG-hlfwyhhE" target="_blank">
 							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=4900f5"/>
 						</a>
 					</p>
-					<p align=left><strong>HTML5, CSS3, JavaScript</strong> - Portfolio Baranding website created based on Codingphase "Web Developer Personal Brand and Portfolio"
-					course. This site was created using the above technologies and can be edited for personal use.</p>
+					<p align=left><strong>HTML5, CSS3, JavaScript, NodeJS, React, ThreeJS Fiber, Tailwind, Framer Motion, Vite</strong></p>
+					<ul align=left>
+					<li>3D ThreeJS AI Showcase This is a web aulplication that demonstrates how corporations can use 3D graphics to showcase their products.
+					</li>
+					<li>
+					Interactive 3D models of products.
+					</li>
+					<li>
+					Customizable backgrounds and lighting.
+					</li>
+					 <li>
+					 Smooth camera transitions and animations.
+					 </li>
+					 <li>
+					 Responsive design that works on all devices.</li>
+					</p>
 				</div>
 			</td>
 		</tr>
