@@ -106,6 +106,7 @@
 				</div>
 			</td>
 		</tr>
+		<!-- Third Row  -->
 		<tr>
 			<td width="50%">
 				<h3 align="center">
@@ -138,6 +139,54 @@
 				<div align="center" >
 					<a href="https://youtu.be/fG-hlfwyhhE">
 						<img src="images/cp-branding.gif" alt="portfolio" height="100%"/>
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/rayanthoney/CodingPhase-Labs/tree/master/branding-portfolio" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+						<a href="https://youtu.be/fG-hlfwyhhE" target="_blank">
+							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=f92667"/>
+						</a>
+					</p>
+					<p align=left><strong>HTML5, CSS3, JavaScript</strong> - Portfolio Baranding website created based on Codingphase "Web Developer Personal Brand and Portfolio"
+					course. This site was created using the above technologies and can be edited for personal use.</p>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td width="50%">
+				<h3 align="center">
+				Upcoming Place Holder
+				</h3>
+				<div align="center" >
+					<a href="#">
+						<img src="" alt="" height="100%"/>
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/rayanthoney/100Devs-Bootcamp/tree/master/homework-layouts/100Devs-Calculator" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+						<a href="DEMO LINK HERE" target="_blank">
+							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=f92667"/>
+						</a>
+					</p>
+					<p align=left><strong>HTML5, CSS3, JavaScript</strong> - 100Devs working calculator using event listners and constructors. This project was created in a group session with Mayanwolfe and 100Devs team.
+					<br>
+					<br>
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">
+				Upcoming Place Holder
+				</h3>
+				<div align="center" >
+					<a href="https://youtu.be/fG-hlfwyhhE">
+						<img src="" alt="" height="100%"/>
 					</a>
 					<br>
 					<br>
