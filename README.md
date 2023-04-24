@@ -162,7 +162,7 @@
 				</h3>
 				<div align="center" >
 					<a href="#">
-						<img src="images/threejs1.gif" alt="" height="100%"/>
+						<img src="" alt="" height="100%"/>
 					</a>
 					<br>
 					<br>
@@ -174,21 +174,16 @@
 							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=4900f5"/>
 						</a>
 					</p>
-					<p align=left><strong>HTML5, CSS3, JavaScript, NodeJS, React, ThreeJS Fiber, Tailwind, Framer Motion, Vite</strong></p>
+					<p align=left><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</strong></p>
 					<ul align=left>
-					<li>3D ThreeJS AI Showcase This is a web aulplication that demonstrates how corporations can use 3D graphics to showcase their products.
+					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
 					</li>
-					<li>
-					Interactive 3D models of products.
+					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
 					</li>
-					<li>
-					Customizable backgrounds and lighting.
+					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
 					</li>
-					 <li>
-					 Smooth camera transitions and animations.
-					 </li>
-					 <li>
-					 Responsive design that works on all devices.</li>
+					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
+					</li>
 					</p>
 					<br>
 					<br>
@@ -201,7 +196,7 @@
 				</h3>
 				<div align="center" >
 					<a href="https://youtu.be/fG-hlfwyhhE">
-						<img src="images/threeJS3DAI.gif" alt="ThreeJS" height="100%"/>
+						<img src="" alt="ThreeJS" height="100%"/>
 					</a>
 					<br>
 					<br>
@@ -213,21 +208,16 @@
 							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=4900f5"/>
 						</a>
 					</p>
-					<p align=left><strong>HTML5, CSS3, JavaScript, NodeJS, React, ThreeJS Fiber, Tailwind, Framer Motion, Vite</strong></p>
+					<p align=left><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</strong></p>
 					<ul align=left>
-					<li>3D ThreeJS AI Showcase This is a web aulplication that demonstrates how corporations can use 3D graphics to showcase their products.
+					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
 					</li>
-					<li>
-					Interactive 3D models of products.
+					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
 					</li>
-					<li>
-					Customizable backgrounds and lighting.
+					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
 					</li>
-					 <li>
-					 Smooth camera transitions and animations.
-					 </li>
-					 <li>
-					 Responsive design that works on all devices.</li>
+					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
+					</li>
 					</p>
 				</div>
 			</td>
