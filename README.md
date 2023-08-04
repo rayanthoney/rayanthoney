@@ -40,7 +40,7 @@
     </a>&nbsp;
 </p>
 
-<br/>
+<hr>
 <br/>
 <br/>
 
@@ -55,18 +55,16 @@
 </p>
 
 <br/>
+<hr>
 <br/>
 
 <!-- MY PERSONAL PROJECTS SECTION -->
 <h2 align="center">Projects</h2>
-
 <div align="center">
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">
-				Mortgage Calculator
-				</h3>
+				<h3 align="center">Mortgage Calculator</h3>
 				<div align="center">
 					<a href="https://youtu.be/XQqhiYAtR9g">
 						<img src="images/cp-mortgage.gif" alt="JavaScript Jeopardy app" height="100%"/>
@@ -156,72 +154,47 @@
 			</td>
 		</tr>
 		<tr>
-			<td width="50%">
-				<h3 align="center">
-				Upcoming Place Holder
-				</h3>
-				<div align="center" >
-					<a href="#">
-						<img src="" alt="" height="100%"/>
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/rayanthoney/100Devs-Bootcamp/tree/master/homework-layouts/100Devs-Calculator" target="_blank">
+            <td width="50%">
+                <h3 align="center">-- Project --</h3>
+                <div align="center" >  
+                    <a href='-- PLACE TARGET URL HERE --' target="_blank">
+                        <img src="images\project.png" alt="project" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="-- PLACE TARGET URL HERE --" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="-- PLACE TARGET URL HERE --" target="_blank">
+							<img src="https://img.shields.io/badge/demo-lightgrey?style=for-the-badge&color=4900f5"/>
 						</a>
-						<a href="DEMO LINK HERE" target="_blank">
-							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=4900f5"/>
-						</a>
-					</p>
-					<p align=left><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</strong></p>
-					<ul align=left>
-					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
-					</li>
-					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
-					</li>
-					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
-					</li>
-					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
-					</li>
-					</p>
-					<br>
-					<br>
-					</p>
-				</div>
-			</td>
-			<td width="50%">
-				<h3 align="center">
-				Upcoming Place Holder
-				</h3>
-				<div align="center" >
-					<a href="https://youtu.be/fG-hlfwyhhE">
-						<img src="" alt="" height="100%"/>
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/rayanthoney/jm_threejs_3d_ai" target="_blank">
+                    </p>
+                    <p><strong>HTML, CSS, Javascript</strong></p>
+		    <p>Description goes here</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center">-- Project --</h3>
+                <div align="center">  
+                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=4900f5' target="_blank">
+                        <img src="images\project.png" alt="project" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="-- PLACE TARGET URL HERE --" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>
-						<a href="https://youtu.be/fG-hlfwyhhE" target="_blank">
-							<img src="https://img.shields.io/badge/-demo-red?style=for-the-badge&color=4900f5"/>
-						</a>
-					</p>
-					<p align=left><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</strong></p>
-					<ul align=left>
-					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
-					</li>
-					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
-					</li>
-					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
-					</li>
-					<li>Mauris rhoncus aenean vel elit scelerisque. Neque viverra justo nec.
-					</li>
-					</p>
-				</div>
-			</td>
-		</tr>
+						</a>  
+						<a href="-- PLACE TARGET URL HERE --" target="_blank">
+							<img src="https://img.shields.io/badge/demo-lightgrey?style=for-the-badge&color=4900f5"/>
+						</a>	
+                    </p>
+                    <p><strong>HTML, CSS, Javascript</strong></p>
+		    <p>Description goes here</p>
+                </div>	
+            </td>
+        </tr>
 	</table>
 </div>
 <br>
