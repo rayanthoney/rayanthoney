@@ -64,9 +64,9 @@ I am a Software Engineer and Freelancer focused on full-stack web development. W
 
 ### 🔧 Backend
 
-[![Node JS][Three.js]][Three.JS-url]
-[![MongoDB][MongoDB]][MongoDB-url]
+[![Node JS][Node.js]][Node.JS-url]
 [![Express JS][Express.JS]][Express.JS-url]
+[![MongoDB][MongoDB]][MongoDB-url]
 [![Appwrite][Appwrite]][Appwrite-url]
 [![MySql][MySql]][MySql-url]
 [![PHP My Admin][PHPMyAdmin]][PHPMyAdmin-url]
