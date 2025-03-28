@@ -65,8 +65,8 @@ I am a Software Engineer and Freelancer focused on full-stack web development. W
 ### 🔧 Backend
 
 [![Node JS][Three.js]][Three.JS-url]
-[![Express JS][Express.JS]][Express.JS-url]
 [![MongoDB][MongoDB]][MongoDB-url]
+[![Express JS][Express.JS]][Express.JS-url]
 [![Appwrite][Appwrite]][Appwrite-url]
 [![MySql][MySql]][MySql-url]
 [![PHP My Admin][PHPMyAdmin]][PHPMyAdmin-url]
@@ -114,16 +114,16 @@ I am a Software Engineer and Freelancer focused on full-stack web development. W
     		<td width="50%">
     			<h3 align="center">Project 2</h3>
     			<div align="center" >
-    				<a href='https://codingphase.com' target="_blank">
+    				<a href='-- PLACEHOLDER --' target="_blank">
     					<img src="images/projects/cp-mortgage.gif" alt="project 2" height="100%" />
     				</a>
 <br>
 <br>
     				<p>
-    					<a href="https://codingphase.com" target="_blank">
+    					<a href="-- PLACEHOLDER --" target="_blank">
     						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
     					</a>
-    					<a href="https://codingphase.com" target="_blank">
+    					<a href="-- PLACEHOLDER --" target="_blank">
     						<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
     					</a>
     				</p>
@@ -135,16 +135,16 @@ I am a Software Engineer and Freelancer focused on full-stack web development. W
             <td width="50%">
                 <h3 align="center">Project 3</h3>
                 <div align="center" >
-                    <a href='https://codingphase.com' target="_blank">
+                    <a href='https://github.com/rayanthoney/javascriptmastery/tree/main/jsm_react-tailwind-socialmedia' target="_blank">
                         <img src="images/projects/ripple-social2.png" alt="project 3" height="100%" />
                     </a>
 <br>
 <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="-- PLACEHOLDER --" target="_blank">
     						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
     					</a>
-    					<a href="https://codingphase.com" target="_blank">
+    					<a href="-- PLACEHOLDER --" target="_blank">
     						<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
     					</a>
                     </p>
@@ -161,10 +161,10 @@ I am a Software Engineer and Freelancer focused on full-stack web development. W
 <br>
 <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="-- PLACEHOLDER --" target="_blank">
     						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
     					</a>
-    					<a href="https://codingphase.com" target="_blank">
+    					<a href="-- PLACEHOLDER --" target="_blank">
     						<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
     					</a>
                     </p>
@@ -175,8 +175,7 @@ I am a Software Engineer and Freelancer focused on full-stack web development. W
         </tr>
     </table>
 
-</div>
-<br />
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
