@@ -155,13 +155,13 @@ I am a Software Engineer and Freelancer focused on full-stack web development. W
             <td width="50%">
                 <h3 align="center">Project 4</h3>
                 <div align="center">
-                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
+                    <a href='https://github.com/rayanthoney/javascriptmastery/tree/main/jsm_react-tailwind-spotify' target="_blank">
                         <img src="images/projects/a_capella.png" alt="project 4" height="100%" />
                     </a>
 <br>
 <br>
                     <p>
-                        <a href="-- PLACEHOLDER --" target="_blank">
+                        <a href="https://github.com/rayanthoney/javascriptmastery/tree/main/jsm_react-tailwind-spotify" target="_blank">
     						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
     					</a>
     					<a href="-- PLACEHOLDER --" target="_blank">
