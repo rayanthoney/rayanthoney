@@ -53,7 +53,7 @@ I am a Software Engineer and Freelancer focused on full-stack web development. W
 
 [![HTML5][HTML5]][HTML5-url]
 [![CSS3][CSS3]][CSS3-url]
-[![Javascript][Javascript]][Javascript-url]
+[![JavaScript][JavaScript]][JavaScript-url]
 [![Tailwind CSS][Tailwind]][Tailwind-url]
 [![React][React.JS]][React-url]
 [![TypeScript][TypeScript]][TypeScript-url]
@@ -209,48 +209,47 @@ I am a Software Engineer and Freelancer focused on full-stack web development. W
 [HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://example.com
 [CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[CSS3-url]: https://example.com
-[Javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[Javascript-url]: https://example.com
+[CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[JavaScript-url]: https://www.javascript.com/
 [Tailwind]: https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
-[Tailwind-url]: https://example.com
+[Tailwind-url]: https://tailwindcss.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://example.com
+[React-url]: https://react.dev/
 [TypeScript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-[TypeScript-url]: https://example.com
+[TypeScript-url]: https://www.typescriptlang.org/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [Vite]: https://img.shields.io/badge/Vite-007ACC?style=for-the-badge&logo=vite&logoColor=white
-[Vite-url]: https://example.com
+[Vite-url]: https://vite.dev/
 [Bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [Three.JS]: https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white
-[Three.JS-url]: https://example.com
+[Three.JS-url]: https://threejs.org/
 
 <!-- BACKEND -->
-
 [Node.JS]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-[Node.JS-url]: https://example.com
+[Node.JS-url]: https://nodejs.org/
 [Express.JS]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-[Express.JS-url]: https://example.com
+[Express.JS-url]: https://expressjs.com/
 [MongoDB]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-[MongoDB-url]: https://example.com
+[MongoDB-url]: https://www.mongodb.com/
 [Appwrite]: https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white
-[Appwrite-url]: https://example.com
+[Appwrite-url]: https://appwrite.io/
 [MySql]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-[MySql-url]: https://example.com
+[MySql-url]: https://www.mysql.com/
 [PHPMyAdmin]: https://img.shields.io/badge/Php_My_Admin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white
-[PHPMyAdmin-url]: https://example.com
+[PHPMyAdmin-url]: https://www.phpmyadmin.net/
 [Laravel]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
 [Wordpress]: https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white
-[Wordpress-url]: https://example.com
+[Wordpress-url]: https://wordpress.com/
 
 <!-- DEV OPS -->
 
 [Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[Docker-url]: https://example.com
+[Docker-url]: https://www.docker.com/
 [NGINX]: https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white
-[NGINX-url]: https://example.com
+[NGINX-url]: https://nginx.org/
 [NPM]: https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white
-[NPM-url]: https://example.com
+[NPM-url]: https://www.npmjs.com/
