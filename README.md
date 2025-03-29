@@ -95,7 +95,7 @@ I am a Software Engineer and Freelancer focused on full-stack web development. W
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href='https://google.com' target="_blank">
+					<a href='-- PLACEHOLDER --' target="_blank">
 						<img src="images/projects/refine.png" alt="project 1" height="100%" />
 					</a>
 <br>
@@ -104,7 +104,7 @@ I am a Software Engineer and Freelancer focused on full-stack web development. W
 						<a href="https://github.com/codingphasedotcom/nextjslanding" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://google.com" target="_blank">
+						<a href="-- PLACEHOLDER --" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a><p>
                     <strong>Features:</strong> Dynamic user authentication, responsive UI with Tailwind, real-time data sync using Firebase.
@@ -175,8 +175,6 @@ I am a Software Engineer and Freelancer focused on full-stack web development. W
         </tr>
     </table>
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -228,6 +226,7 @@ I am a Software Engineer and Freelancer focused on full-stack web development. W
 [Three.JS-url]: https://threejs.org/
 
 <!-- BACKEND -->
+
 [Node.JS]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 [Node.JS-url]: https://nodejs.org/
 [Express.JS]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
