@@ -156,3 +156,5 @@ I am a Software Engineer and Freelancer focused on full-stack web development. W
 </p>
 
 <p align="right">(<a href="#readme-top">back to top ⬆️</a>)</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
